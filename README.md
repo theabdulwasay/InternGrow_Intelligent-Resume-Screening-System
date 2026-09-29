@@ -46,3 +46,6 @@ Files are processed in memory and are not written to disk. Add authentication, a
 ```powershell
 python -m unittest discover -s tests -v
 ```
+<img width="1583" height="795" alt="image" src="https://github.com/user-attachments/assets/913eb131-77f0-4b81-87a2-36debd27d3d2" />
+<img width="1577" height="789" alt="image" src="https://github.com/user-attachments/assets/cb5e2f66-0808-4dcd-bde7-d7d7b7011eda" />
+
